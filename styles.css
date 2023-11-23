@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    text-align: center;
     background-image: url("orchard_funds.jpg");
     height: 100%;
     width: 100%;
@@ -8,5 +7,5 @@ body {
     /* Center and scale the image nicely */
     background-position: left center;
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: cover;
 }
